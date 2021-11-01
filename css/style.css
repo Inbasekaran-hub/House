@@ -1,0 +1,227 @@
+body
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+header.picture
+{
+	background-image: url("https://templatemo.com/templates/templatemo_539_simple_house/img/simple-house-01.jpg");
+	padding-top: 330px;
+	padding-left: 50px;
+	background-attachment: fixed;
+
+}
+
+
+}
+.container 
+{
+	width: 1300px;
+	margin-left:auto;
+	margin-right:auto;
+
+	
+}
+.logo
+{
+	float:left;
+	color: #FFFFFF;
+}
+nav.menubar
+{
+	float:right;
+	margin-top:13px;
+}
+h1.edit
+{
+	font-size: 1.3rem;
+    font-weight: 400;
+    color: #1A6692;
+    margin-bottom: 15px;
+}
+p.edit1
+{
+	color: #626364;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-size: 0.95rem;
+}
+p.amount
+{
+	font-size: 1.25rem;
+    color: #2F956D;
+    margin-bottom: 60px;
+    line-height: 1.8;
+}
+nav li
+{
+	display:inline-block;
+	margin-left:50px;
+
+}
+nav li a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+	width:100px;
+	display:inline-block;
+	padding-top:50px;
+	padding-bottom:10px;
+	text-align: center;
+	padding-left: 30px;
+
+}
+nav li a:hover
+{
+	border-bottom: 1px solid white;
+}
+h1.heading
+{
+	margin-top: 10px;
+	font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 30px;
+    color: #000000;
+}
+div.clear
+{
+	clear: left;
+}
+.center
+{
+	text-align:center;
+	margin:50px 0;
+	color: #626364;
+    line-height: 1.8;
+}
+nav.food
+{
+	text-align: center;
+	
+}
+div.bck
+{
+	background-image: url("pic2.jpg");;
+}
+.pizza, .salad, .noodle
+{
+
+	color: green;
+    box-shadow: 1px;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    box-sizing: inherit;
+    cursor: pointer;
+    list-style: none;
+    border: 1px solid #2F956D;
+    margin: 7px;
+
+}
+nav.foods li a:hover
+{
+    background-color: #2e8b57;	
+	color:#FFFFFF;
+	
+}
+nav.foods
+{
+	text-align: center;
+
+}
+.row 
+{
+	width: 1300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.col_1
+{
+	float:left;
+	width:300px;
+	margin-right:20px;
+}
+.abrow
+{
+	width: 1300px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+.colm1
+{
+	float:left;
+	width:200px;
+	margin-right:20px;
+	margin-bottom: 60px;
+}
+.colm2
+{
+	float:left;
+	width:400px;
+	margin-right:20px;
+	margin-bottom: 60px;
+}
+.left_box
+{
+	float:left;
+	width:600px;
+}
+.right_box
+{
+	float:right;
+	width:600px;
+	
+}
+footer.edit
+{
+	text-align: center;
+	color: #626364;
+}
+.flink
+{
+	color: #626364;
+    text-decoration: none;
+}
+footer p a:hover
+{
+	
+	color:#000080;
+	border-radius:10px;
+}
+.rm
+{
+
+	border: 1px solid #ccc;
+    background-color: #C0C0C0;
+    color: #626364;
+    align-self: flex-end;
+    padding: 5px;
+    text-decoration: none;
+}
+.container2
+{
+	width: 1300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.left_box1
+{
+	float:left;
+	width:650px;
+}
+.right_box1
+{
+	float:right;
+	width:650px;
+	
+}
+.colmn1
+{
+	float:left;
+	width:400px;
+	margin-right:32px;
+}
